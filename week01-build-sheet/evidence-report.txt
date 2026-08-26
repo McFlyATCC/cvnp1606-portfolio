@@ -1,5 +1,5 @@
 ﻿=== CVNP1606-W01 Evidence Report ===
-Generated : 2026-08-26 07:33:09
+Generated : 2026-08-26 07:38:13
 Host      : CVNP1606-LAB
 
 [SYSTEM]
@@ -20,8 +20,7 @@ Host      : CVNP1606-LAB
   cvnp1606-lab\Administrator (Local)
 
 [TPM]
-  TpmPresent   : True
-  TpmEnabled   : True
+  TPM query failed (may need admin or TPM not present): Access denied 
 
 [REQUIRED FILES]
   inventory.txt : NOT FOUND
