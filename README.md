@@ -1,4 +1,4 @@
-# [McFlyATCC] — Windows 11 Endpoint Support Portfolio
+# McFlyATCC — Windows 11 Endpoint Support Portfolio
 
 Hands-on support work from a 16-week Windows 11 administration course:
 every folder is a completed ticket with captured evidence (command output,
