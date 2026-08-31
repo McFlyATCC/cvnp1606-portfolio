@@ -1,10 +1,10 @@
-\# CVNP1606 - Week 2 User Support FAQ
+# CVNP1606 - Week 2 User Support FAQ
 
-\## Ticket: CVNP1606-W02-002
+## Ticket: CVNP1606-W02-002
 
 
 
-\### Overview
+### Overview
 
 
 
@@ -16,15 +16,15 @@ The goal of this FAQ is to provide users and support staff with consistent, veri
 
 
 
-\---
+---
 
 
 
-\## Environment
+## Environment
 
 
 
-\- Operating System: Windows 11
+- Operating System: Windows 11
 
 \- User Group: ACME Pilot Group
 
