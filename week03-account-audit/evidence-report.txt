@@ -1,0 +1,35 @@
+﻿=== CVNP1606-W03 Evidence Report ===
+Generated : 2026-09-03 13:18:26
+Host      : CVNP1606-LAB
+
+[LOCAL ACCOUNTS]
+  acme.com                     Enabled: True
+  AcmeSeasonal01               Enabled: True
+  ACMEStandardUser             Enabled: True
+  Administrator                Enabled: False
+  DefaultAccount               Enabled: False
+  Guest                        Enabled: False
+  seasonal-staff               Enabled: True
+  WDAGUtilityAccount           Enabled: False
+
+[SEASONAL-STAFF ACCOUNT]
+  seasonal-staff : FOUND | Enabled: True
+  In Administrators group : False  (should be False)
+
+[ADMINISTRATORS GROUP]
+  cvnp1606-lab\acme.com (Local)
+  cvnp1606-lab\Administrator (Local)
+
+[USERS GROUP (standard accounts)]
+  cvnp1606-lab\AcmeSeasonal01 (Local)
+  cvnp1606-lab\ACMEStandardUser (Local)
+  cvnp1606-lab\seasonal-staff (Local)
+  NT AUTHORITY\Authenticated Users (Unknown)
+  NT AUTHORITY\INTERACTIVE (Unknown)
+
+[REQUIRED FILES]
+  local-users-export.txt : FOUND (3320 bytes)
+  least-privilege-memo.md : FOUND (2854 bytes)
+  README.md : FOUND (6383 bytes)
+
+Commit this file (evidence-report.txt) to your GitHub repo under week03-account-audit/.
